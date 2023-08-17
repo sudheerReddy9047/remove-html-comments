@@ -1,0 +1,29 @@
+{
+  "name": "remove-html-comments",
+  "version": "0.0.1",
+  "description": "This plugin removes multiline comments in html files in your project code base.",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "remove-html-comments": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheerReddy9047/remove-html-comments.git"
+  },
+  "keywords": [
+    "html-comments"
+  ],
+  "author": "Sudheer Reddy Kodidala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudheerReddy9047/remove-html-comments/issues"
+  },
+  "homepage": "https://github.com/sudheerReddy9047/remove-html-comments#readme"
+}
